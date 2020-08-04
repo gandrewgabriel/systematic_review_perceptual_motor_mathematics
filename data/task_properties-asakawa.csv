@@ -1,0 +1,28 @@
+body_part,property,finger_pulling,bead_stringing,finger_opposition
+N/A,Task Count,1,1,1
+Fingers,Strength,1,0,0
+Fingers,Precision,0,1,1
+Fingers,Coordination,0,1,1
+Hands,Strength,0,0,0
+Hands,Precision,0,1,1
+Hands,Coordination,0,1,1
+Arms,Strength,0,0,0
+Arms,Precision,0,0,0
+Arms,Coordination,0,0,0
+Feet,Strength,0,0,0
+Feet,Precision,0,0,0
+Feet,Coordination,0,0,0
+Legs,Strength,0,0,0
+Legs,Precision,0,0,0
+Legs,Coordination,0,0,0
+Torso,Strength,0,0,0
+Torso,Precision,0,0,0
+Torso,Coordination,0,0,0
+Head/Neck,Strength,0,0,0
+Head/Neck,Precision,0,0,0
+Head/Neck,Coordination,0,0,0
+N/A,Proprioceptive,1,1,1
+N/A,Tactile (Hands),1,1,1
+N/A,Tactile (Non-Hands),0,0,0
+N/A,Vestibular,0,0,0
+N/A,Visual,0,1,1

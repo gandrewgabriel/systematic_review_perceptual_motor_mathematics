@@ -1,0 +1,28 @@
+body_part,property,tracing,copying_writing,puzzle_building,pegboard,play_dough,using_scissors,sorting_objects,climbing_obstacles,throwing,catching,pushing_wheel,rolling_ball,crawling,crawling_backwards,hitting_with_racquet,hoop_jumping,mattress_somersault,stilts_walking,line_hopping,backwards_balance_beam_walking
+N/A,Task Count,4,2,2,3,3,1,4,1,1,4,3,2,1,1,4,3,1,1,1,1
+Fingers,Strength,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fingers,Precision,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fingers,Coordination,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hands,Strength,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hands,Precision,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hands,Coordination,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,0,0,0,0,0
+Arms,Strength,0,0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,0,0,0,0
+Arms,Precision,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arms,Coordination,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0
+Feet,Strength,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Feet,Precision,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Feet,Coordination,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Legs,Strength,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,1,0
+Legs,Precision,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Legs,Coordination,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,1,1
+Torso,Strength,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Torso,Precision,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Torso,Coordination,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Head/Neck,Strength,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Head/Neck,Precision,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Head/Neck,Coordination,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+N/A,Proprioceptive,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+N/A,Tactile (Hands),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0
+N/A,Tactile (Non-Hands),0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,1,1
+N/A,Vestibular,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,1,1
+N/A,Visual,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
